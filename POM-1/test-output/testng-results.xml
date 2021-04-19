@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48394" started-at="2021-04-19T13:26:45Z" finished-at="2021-04-19T13:27:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48394" started-at="2021-04-19T13:26:45Z" finished-at="2021-04-19T13:27:33Z">
+      <class name="ou_ogl_exercise.TestDockerLogin_WithExtentReport">
+        <test-method status="PASS" signature="setup()[pri:0, instance:ou_ogl_exercise.TestDockerLogin_WithExtentReport@26653222]" name="setup" is-config="true" duration-ms="12147" started-at="2021-04-19T18:56:32Z" finished-at="2021-04-19T18:56:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testMethodForExercise1a()[pri:1, instance:ou_ogl_exercise.TestDockerLogin_WithExtentReport@26653222]" name="testMethodForExercise1a" duration-ms="15745" started-at="2021-04-19T18:56:45Z" finished-at="2021-04-19T18:57:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodForExercise1a -->
+        <test-method status="PASS" signature="testMethodForExercise1b()[pri:2, instance:ou_ogl_exercise.TestDockerLogin_WithExtentReport@26653222]" name="testMethodForExercise1b" duration-ms="5356" started-at="2021-04-19T18:57:01Z" finished-at="2021-04-19T18:57:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodForExercise1b -->
+        <test-method status="PASS" signature="testMethodForExercise1c()[pri:3, instance:ou_ogl_exercise.TestDockerLogin_WithExtentReport@26653222]" name="testMethodForExercise1c" duration-ms="2424" started-at="2021-04-19T18:57:06Z" finished-at="2021-04-19T18:57:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodForExercise1c -->
+        <test-method status="PASS" signature="testMethodForExercise2()[pri:4, instance:ou_ogl_exercise.TestDockerLogin_WithExtentReport@26653222]" name="testMethodForExercise2" duration-ms="6982" started-at="2021-04-19T18:57:08Z" finished-at="2021-04-19T18:57:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodForExercise2 -->
+        <test-method status="PASS" signature="testMethodForExercise3()[pri:5, instance:ou_ogl_exercise.TestDockerLogin_WithExtentReport@26653222]" name="testMethodForExercise3" duration-ms="9359" started-at="2021-04-19T18:57:15Z" finished-at="2021-04-19T18:57:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodForExercise3 -->
+        <test-method status="PASS" signature="testMethodForExercise4()[pri:6, instance:ou_ogl_exercise.TestDockerLogin_WithExtentReport@26653222]" name="testMethodForExercise4" duration-ms="8381" started-at="2021-04-19T18:57:25Z" finished-at="2021-04-19T18:57:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodForExercise4 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ou_ogl_exercise.TestDockerLogin_WithExtentReport@26653222]" name="tearDown" is-config="true" duration-ms="4558" started-at="2021-04-19T18:57:35Z" finished-at="2021-04-19T18:57:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ou_ogl_exercise.TestDockerLogin_WithExtentReport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
